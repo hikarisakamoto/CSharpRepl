@@ -15,7 +15,7 @@ C# REPL provides the following features:
 - Nuget package installation
 - Reference local assemblies, solutions, and projects
 - Dump and explore objects with syntax highlighting and rich Spectre.Console formatting
-- Connect a running .NET application and run the REPL inside that application, with access to application state and the ability to replace live methods
+- Connect to a running .NET application and run the REPL inside that application, with access to application state and the ability to replace live methods
 - Navigate to source via Source Link
 - IL disassembly and "lowered" C# decompilation (both Debug and Release mode, using ILSpy)
 - AI code completion via OpenAI, Anthropic, Gemini, Grok, DeepSeek, Mistral/Codestral, or any other OpenAI-compatible provider (bring your own API key)
